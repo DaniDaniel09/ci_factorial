@@ -1,5 +1,6 @@
 """
-Este módulo contiene una implementación de la función factorial. (actualmente incompleta a mas numeros)
+Este módulo contiene una implementación de la función factorial.
+(actualmente incompleta a mas numeros)
 """
 
 
